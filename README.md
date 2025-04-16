@@ -74,5 +74,3 @@ Each model prints:
 - Best hyperparameters
 - Confusion matrix plot
 
-## 📂 Folder Structure
-
